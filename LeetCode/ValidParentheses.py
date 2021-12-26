@@ -1,6 +1,6 @@
 # Given a string s that only contains the characters '(', ')', '{', '}', '[' and ']'
 # determine whether or not the string is valid. The string s is invalid if,
-# 1. s contains a closing bracket that's not preceeded by any opening brackets, or
+# 1. s contains a closing bracket that's not preceded by any opening brackets, or
 # 2. s contains an opening bracket that's directly followed by a closing bracket of a 
 #    different type.
 def isValid(s):
